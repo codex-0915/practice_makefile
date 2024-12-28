@@ -1,0 +1,4 @@
+TODO:
+* Create gitignore
+* Create documentation on how to use this
+* Update makefile content
